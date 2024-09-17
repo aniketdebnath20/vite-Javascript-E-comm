@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "name": "clothes",
+        "category": "Men-clothes",
+        "brand": "ANIKET",
+        "price": 999.99,
+        "stock": 100,
+        "description": "Koten Clothes Primany Quality for Men where, festival, Occaation...",
+        "image": "Image Folder/WhatsApp Image 2024-07-18 at 21.43.36_df0311e3.jpg"
+    },
+    {
+        "id": 2,
+        "name": "clothes",
+        "category": "Men-clothes",
+        "brand": "ANIKET",
+        "price": 999.99,
+        "stock": 100,
+        "description": "Koten Clothes Primany Quality for Men where, festival, Occaation...",
+        "image": "Image Folder/WhatsApp Image 2024-07-18 at 21.43.34_290bd6f1.jpg"
+    },
+    {
+        "id": 3,
+        "name": "clothes",
+        "category": "Men-clothes",
+        "brand": "ANIKET",
+        "price": 999.99,
+        "stock": 100,
+        "description": "Koten Clothes Primany Quality for Men where, festival, Occaation...",
+        "image": "Image Folder/WhatsApp Image 2024-07-18 at 21.43.33_5075d9fc.jpg"
+    },
+    {
+        "id": 4,
+        "name": "clothes",
+        "category": "Men-clothes",
+        "brand": "ANIKET",
+        "price": 999.99,
+        "stock": 100,
+        "description": "Koten Clothes Primany Quality for Men where, festival, Occaation...",
+        "image": "Image Folder/WhatsApp Image 2024-07-18 at 21.43.33_3faa9141.jpg"
+    },
+    {
+        "id": 5,
+        "name": "clothes",
+        "category": "Men-clothes",
+        "brand": "ANIKET",
+        "price": 999.99,
+        "stock": 100,
+        "description": "Koten Clothes Primany Quality for Men where, festival, Occaation...",
+        "image": "Image Folder/WhatsApp Image 2024-07-18 at 21.43.33_2ccfa5ac.jpg"
+    },
+    {
+        "id": 6,
+        "name": "clothes",
+        "category": "Men-clothes",
+        "brand": "ANIKET",
+        "price": 999.99,
+        "stock": 100,
+        "description": "Koten Clothes Primany Quality for Men where, festival, Occaation...",
+        "image": "Image Folder/WhatsApp Image 2024-07-18 at 21.43.32_c15fd195.jpg"
+    },
+    {
+        "id": 7,
+        "name": "clothes",
+        "category": "Women-clothes",
+        "brand": "ANIKET",
+        "price": 999.99,
+        "stock": 100,
+        "description": "Koten Clothes Primany Quality for Men where, festival, Occaation...",
+        "image": "Image Folder/IMG-20240628-WA0022.jpg"
+    },
+    {
+        "id": 8,
+        "name": "clothes",
+        "category": "Women-clothes",
+        "brand": "ANIKET",
+        "price": 999.99,
+        "stock": 100,
+        "description": "Koten Clothes Primany Quality for Men where, festival, Occaation...",
+        "image": "Image Folder/WhatsApp Image 2024-07-18 at 21.43.31_0d1eddd0.jpg"
+    },
+    {
+        "id": 9,
+        "name": "clothes",
+        "category": "Women-clothes",
+        "brand": "ANIKET",
+        "price": 999.99,
+        "stock": 100,
+        "description": "Koten Clothes Primany Quality for Men where, festival, Occaation...",
+        "image": "Image Folder/WhatsApp Image 2024-07-18 at 21.43.31_52d3a993.jpg"
+    }
+]
