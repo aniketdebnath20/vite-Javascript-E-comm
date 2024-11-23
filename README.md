@@ -6,5 +6,7 @@ All function are done with Javascript like
 
 2.Store the data of item in localStorage
 
+3.Fetch all the data form API
+
 3.Many more Feature
 
